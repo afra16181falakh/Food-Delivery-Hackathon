@@ -1,14 +1,15 @@
-Padosi-ka-Khana: The love story between the local street-food vendor and street-smart foodies!
-Padosi-ka-Khana
+## Padosi-ka-Khana: The love story between the local street-food vendor and street-smart foodies!
+
+## Padosi-ka-Khana
 
 A food-delivery application connecting local street vendors to the street-smart foodies.
 
 
-Overview
+## Overview
 
 In this blog, we’ll explore how to create a fully functional food-delivery application, “Padosi-Ka-Khana,” which connects customers to neighbouring street foods. The blog aims to provide a platform for vendors with the least listing fees and focuses on building a seamless user experience, efficient backend, and advanced features like chatbots and payment gateways. By the end of this blog, you’ll have a comprehensive understanding of this food-delivery app.
 
-Architecture
+## Architecture
 
 The architecture of “Padosi-Ka-Khana” is built around a modular and scalable design.
 
@@ -60,7 +61,7 @@ b. Basic Knowledge:
 
 - Basic knowledge of API integration.
 
-Step-by-Step instructions
+## Step-by-Step instructions
 
 Step 1: Set Up the Project
 
@@ -111,7 +112,7 @@ Step 6: Testing and Debugging
 
 2. Use Firebase Crashlytics to monitor and fix issues.
 
-Demo
+## Demo
 
 Once completed, your “Padosi-ka-khana” app will allow users to:
 
@@ -133,7 +134,7 @@ Stripe Payment gateway
 Carts page of Padosi-ka-khana
 What’s next?
 
-To expand this project:
+## To expand this project:
 
 - Add a review and rating system for dishes.
 
@@ -141,7 +142,7 @@ To expand this project:
 
 - Enhance AI capabilities in the chatbot for personalised recommendations.
 
-Call to Action
+## Call to Action
 
 To learn more about Google Cloud services and to create an impact for the work you do, get around to these steps right away:
 
@@ -155,8 +156,8 @@ Connect with me(Sivakumaran M) on LinkedIn and GitHub .
 
 Tap here -> Padosi-Ka-Khana to refer to the open-source code in GitHub.
 
-Github link: https://github.com/msk1523/Food-Delivery
-LinkedIn link: https://www.linkedin.com/in/siva-kumaran-manivaannan-012a7724a/
+## Github link: https://github.com/msk1523/Food-Delivery
+## LinkedIn link: https://www.linkedin.com/in/siva-kumaran-manivaannan-012a7724a/
 
 # food_delivery
 
